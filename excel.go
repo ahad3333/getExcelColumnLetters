@@ -1,4 +1,4 @@
-package exccel
+package excel
 
 func getExcelColumnLetters(n int) []string {
     letters := []string{}
