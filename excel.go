@@ -1,6 +1,6 @@
 package excel
 
-func getExcelColumnLetters(n int) []string {
+func GetExcelColumnLetters(n int) []string {
     letters := []string{}
     for n > 0 {
         n--
